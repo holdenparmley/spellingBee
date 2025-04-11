@@ -1,1 +1,1 @@
-A solution to NYT's spelling bee game. Valid words are provided by the user as a command line argument. Valid words are provided in the form of a text file of words, one word on each line.
+A solution to NYT's spelling bee game. The set of letters to be used are provided as the first command line argument. Valid words are provided by the user as the second command line argument. Valid words are provided in the form of a text file of words, one word on each line.
